@@ -1,0 +1,15 @@
+D:\Projetos\.NET\bank\bank\bin\Debug\net6.0\bank.exe
+D:\Projetos\.NET\bank\bank\bin\Debug\net6.0\bank.deps.json
+D:\Projetos\.NET\bank\bank\bin\Debug\net6.0\bank.runtimeconfig.json
+D:\Projetos\.NET\bank\bank\bin\Debug\net6.0\bank.dll
+D:\Projetos\.NET\bank\bank\bin\Debug\net6.0\bank.pdb
+D:\Projetos\.NET\bank\bank\obj\Debug\net6.0\bank.csproj.AssemblyReference.cache
+D:\Projetos\.NET\bank\bank\obj\Debug\net6.0\bank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\.NET\bank\bank\obj\Debug\net6.0\bank.AssemblyInfoInputs.cache
+D:\Projetos\.NET\bank\bank\obj\Debug\net6.0\bank.AssemblyInfo.cs
+D:\Projetos\.NET\bank\bank\obj\Debug\net6.0\bank.csproj.CoreCompileInputs.cache
+D:\Projetos\.NET\bank\bank\obj\Debug\net6.0\bank.dll
+D:\Projetos\.NET\bank\bank\obj\Debug\net6.0\refint\bank.dll
+D:\Projetos\.NET\bank\bank\obj\Debug\net6.0\bank.pdb
+D:\Projetos\.NET\bank\bank\obj\Debug\net6.0\bank.genruntimeconfig.cache
+D:\Projetos\.NET\bank\bank\obj\Debug\net6.0\ref\bank.dll

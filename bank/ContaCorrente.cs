@@ -8,10 +8,11 @@ namespace bank
 {
     public class ContaCorrente
     {
-        public int numero_conta;
+        public int agencia;
         public string conta;
-        public string titutlar;
+        public string titular;
         public double saldo;
 
+        
     }
 }
